@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MuskanCodeX/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MuskanCodeX/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MuskanCodeX/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MuskanCodeX/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
