@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1148-article-views-i](https://github.com/MuskanCodeX/DSA/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MuskanCodeX/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
