@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MuskanCodeX/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/MuskanCodeX/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MuskanCodeX/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MuskanCodeX/DSA/tree/master/0125-valid-palindrome) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MuskanCodeX/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/MuskanCodeX/DSA/tree/master/0049-group-anagrams) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MuskanCodeX/DSA/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MuskanCodeX/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
