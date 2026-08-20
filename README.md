@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MuskanCodeX/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/MuskanCodeX/DSA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/MuskanCodeX/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/MuskanCodeX/DSA/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [2129-capitalize-the-title](https://github.com/MuskanCodeX/DSA/tree/master/2129-capitalize-the-title) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MuskanCodeX/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MuskanCodeX/DSA/tree/master/0069-sqrtx) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/MuskanCodeX/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
