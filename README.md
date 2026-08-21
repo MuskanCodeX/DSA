@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/MuskanCodeX/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/MuskanCodeX/DSA/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [1021-remove-outermost-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2129-capitalize-the-title](https://github.com/MuskanCodeX/DSA/tree/master/2129-capitalize-the-title) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MuskanCodeX/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MuskanCodeX/DSA/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
