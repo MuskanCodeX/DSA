@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MuskanCodeX/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MuskanCodeX/DSA/tree/master/0162-find-peak-element) |
+| [0485-max-consecutive-ones](https://github.com/MuskanCodeX/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MuskanCodeX/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
