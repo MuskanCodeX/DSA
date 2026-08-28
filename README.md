@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MuskanCodeX/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MuskanCodeX/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/MuskanCodeX/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MuskanCodeX/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MuskanCodeX/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MuskanCodeX/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MuskanCodeX/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MuskanCodeX/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MuskanCodeX/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MuskanCodeX/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MuskanCodeX/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MuskanCodeX/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MuskanCodeX/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -147,5 +151,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/MuskanCodeX/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
