@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/MuskanCodeX/DSA/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/MuskanCodeX/DSA/tree/master/1148-article-views-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MuskanCodeX/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MuskanCodeX/DSA/tree/master/1757-recyclable-and-low-fat-products) |
