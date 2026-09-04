@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MuskanCodeX/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MuskanCodeX/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/MuskanCodeX/DSA/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1572-matrix-diagonal-sum](https://github.com/MuskanCodeX/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MuskanCodeX/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/MuskanCodeX/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -184,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MuskanCodeX/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/MuskanCodeX/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
