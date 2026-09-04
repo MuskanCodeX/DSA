@@ -1,21 +1,43 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int ans[] = new int[nums1.length];
-        for(int i=0;i<nums1.length;i++){
-            int j =0;
-            while(nums2[j] != nums1[i]){
-                j++;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        Stack<Integer> stack = new Stack<>();
+        for(int i=0;i<nums2.length;i++){
+            while(!stack.isEmpty() && nums2[i] > stack.peek()){
+                int element = stack.pop();
+                map.put(element, nums2[i]);
             }
-            int k = j+1;
-            while(k < nums2.length && nums2[k] <= nums1[i]){
-                k++;
-            }
-            if(k == nums2.length){
-                ans[i] = -1;
-            }else{
-                ans[i] = nums2[k];
-            }
+            stack.push(nums2[i]);
         }
-        return ans;        
+        while(!stack.isEmpty()){
+            map.put(stack.pop(), -1);
+        }
+        for(int i=0;i<nums1.length;i++){
+            ans[i] = map.get(nums1[i]);
+        }
+        return ans;
+
+
+
+
+
+        //------------brute force-------------
+        // for(int i=0;i<nums1.length;i++){
+        //     int j =0;
+        //     while(nums2[j] != nums1[i]){
+        //         j++;
+        //     }
+        //     int k = j+1;
+        //     while(k < nums2.length && nums2[k] <= nums1[i]){
+        //         k++;
+        //     }
+        //     if(k == nums2.length){
+        //         ans[i] = -1;
+        //     }else{
+        //         ans[i] = nums2[k];
+        //     }
+        // }
+        // return ans;        
     }
 }
