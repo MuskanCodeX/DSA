@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MuskanCodeX/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MuskanCodeX/DSA/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MuskanCodeX/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/MuskanCodeX/DSA/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MuskanCodeX/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
