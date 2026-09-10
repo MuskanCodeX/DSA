@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MuskanCodeX/DSA/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/MuskanCodeX/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MuskanCodeX/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MuskanCodeX/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/MuskanCodeX/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MuskanCodeX/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/MuskanCodeX/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MuskanCodeX/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MuskanCodeX/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Enumeration
