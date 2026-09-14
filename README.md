@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MuskanCodeX/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/MuskanCodeX/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/MuskanCodeX/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MuskanCodeX/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MuskanCodeX/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MuskanCodeX/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/MuskanCodeX/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MuskanCodeX/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/MuskanCodeX/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/MuskanCodeX/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MuskanCodeX/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MuskanCodeX/DSA/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/MuskanCodeX/DSA/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/MuskanCodeX/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
 |  |
 | ------- |
