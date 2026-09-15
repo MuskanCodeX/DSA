@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MuskanCodeX/DSA/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MuskanCodeX/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2129-capitalize-the-title](https://github.com/MuskanCodeX/DSA/tree/master/2129-capitalize-the-title) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MuskanCodeX/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MuskanCodeX/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MuskanCodeX/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MuskanCodeX/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MuskanCodeX/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/MuskanCodeX/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/MuskanCodeX/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MuskanCodeX/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
