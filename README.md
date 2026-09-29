@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/MuskanCodeX/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/MuskanCodeX/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MuskanCodeX/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/MuskanCodeX/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MuskanCodeX/DSA/tree/master/0058-length-of-last-word) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MuskanCodeX/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MuskanCodeX/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MuskanCodeX/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MuskanCodeX/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MuskanCodeX/DSA/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/MuskanCodeX/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MuskanCodeX/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MuskanCodeX/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MuskanCodeX/DSA/tree/master/0189-rotate-array) |
