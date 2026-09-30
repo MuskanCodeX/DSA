@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MuskanCodeX/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MuskanCodeX/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MuskanCodeX/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MuskanCodeX/DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuskanCodeX/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MuskanCodeX/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MuskanCodeX/DSA/tree/master/0204-count-primes) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MuskanCodeX/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Hash Table
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MuskanCodeX/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MuskanCodeX/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MuskanCodeX/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MuskanCodeX/DSA/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/MuskanCodeX/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MuskanCodeX/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/MuskanCodeX/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -280,4 +283,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/MuskanCodeX/DSA/tree/master/1095-find-in-mountain-array) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MuskanCodeX/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MuskanCodeX/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MuskanCodeX/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MuskanCodeX/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
