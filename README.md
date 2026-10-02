@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MuskanCodeX/DSA/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/MuskanCodeX/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2129-capitalize-the-title](https://github.com/MuskanCodeX/DSA/tree/master/2129-capitalize-the-title) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MuskanCodeX/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -221,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MuskanCodeX/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanCodeX/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
