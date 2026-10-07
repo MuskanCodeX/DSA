@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/MuskanCodeX/DSA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/MuskanCodeX/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/MuskanCodeX/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0876-middle-of-the-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MuskanCodeX/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -322,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuskanCodeX/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
