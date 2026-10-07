@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MuskanCodeX/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MuskanCodeX/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MuskanCodeX/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/MuskanCodeX/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MuskanCodeX/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/MuskanCodeX/DSA/tree/master/0443-string-compression) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MuskanCodeX/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MuskanCodeX/DSA/tree/master/0739-daily-temperatures) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/MuskanCodeX/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/MuskanCodeX/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -318,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuskanCodeX/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/MuskanCodeX/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
