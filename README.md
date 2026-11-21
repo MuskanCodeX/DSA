@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/MuskanCodeX/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/MuskanCodeX/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/MuskanCodeX/DSA/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MuskanCodeX/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/MuskanCodeX/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/MuskanCodeX/DSA/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MuskanCodeX/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MuskanCodeX/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MuskanCodeX/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/MuskanCodeX/DSA/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
