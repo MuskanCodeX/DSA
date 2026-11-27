@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MuskanCodeX/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MuskanCodeX/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuskanCodeX/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MuskanCodeX/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/MuskanCodeX/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MuskanCodeX/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MuskanCodeX/DSA/tree/master/0141-linked-list-cycle) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MuskanCodeX/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuskanCodeX/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MuskanCodeX/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/MuskanCodeX/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MuskanCodeX/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MuskanCodeX/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MuskanCodeX/DSA/tree/master/0141-linked-list-cycle) |
